@@ -88,7 +88,7 @@ Toegelaten externe bronnen:
 > **Tips**
 >
 > Voor dit onderdeel heb je **ongeveer 1 uur** ter beschikking.  
-> Je hebt tijd tot `15:45`. Dit wordt automatisch afgesloten dus **push regelmatig!**  
+> Je hebt tijd tot `16:45`. Dit wordt automatisch afgesloten dus **push regelmatig!**  
 > Dit deel staat op **34 %** van de punten.
 
 Ga naar <http://localhost:8080> en klik op het hangsloticoontje om naar de backoffice te gaan.
@@ -125,7 +125,7 @@ en vul aan bij:
 > **Tips**
 >
 > Voor dit onderdeel heb je **ongeveer 3 uur** ter beschikking.  
-> Je hebt tijd tot `15:45`. Dit wordt automatisch afgesloten dus **push regelmatig!**  
+> Je hebt tijd tot `16:45`. Dit wordt automatisch afgesloten dus **push regelmatig!**  
 > Dit deel staat op **66 %** van de punten.
 
 Ga naar <http://localhost:8080> en klik op het hangsloticoontje om naar de backoffice te gaan.
